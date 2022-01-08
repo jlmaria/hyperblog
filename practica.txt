@@ -1,7 +1,0 @@
-Hola.
-
-Mi nombre es Jorge.
-
-Estoy aprendiendo a usar Git
-
-He aprendido a usar varios comandos
